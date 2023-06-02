@@ -17,7 +17,8 @@ namespace MaquinaDeDoces
             controlProd.Operacao();            
 
 
-            //Console.ReadLine();//Manter a janela aberta
+            Console.ReadLine(); //Manter a janela aberta
+
         }//fim do método main
     }//fim da classe
 }//fim do projeto
